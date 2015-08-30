@@ -1,5 +1,5 @@
 {
-	"name": "PhpModerno/Mvc",
+	"name": "phpModerno/mvc",
     	"description": "MVC do curso PHP Moderno",
 	"require": {
 		"symfony/http-foundation": "*"
