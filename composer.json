@@ -1,0 +1,12 @@
+{
+	"name": "PhpModerno/Mvc",
+    	"description": "MVC do curso PHP Moderno",
+	"require": {
+		"symfony/http-foundation": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"PhpModerno\\Mvc\\": "src/PhpModerno/Mvc"
+		}
+	}
+}
